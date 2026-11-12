@@ -1,10 +1,10 @@
 {
   "name": "rdOO",
   "version": "0.7.0",
-  "build": "20261112.2156",
+  "build": "20261112.2143",
   "url": "rdOO-latest.zip",
   "file": "rdOO-latest.zip",
-  "sha256": "5179e169581167613be06efa9ceca2b0b51b988750418082dc329c65005d464f",
-  "size": 24938257,
-  "notes": "Actualizaciones integradas: menú rdOO → «Buscar actualizaciones…» y Ajustes → General. Descarga verificada con SHA-256, instalación al cerrar y reapertura automática."
+  "sha256": "e831318180b6d6d74a1f140fd5b1be30d9f293a749420985089c056d466bb20d",
+  "size": 24939007,
+  "notes": ""
 }
