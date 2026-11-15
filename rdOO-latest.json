@@ -1,10 +1,10 @@
 {
   "name": "rdOO",
   "version": "0.7.0",
-  "build": "20261115.1120",
+  "build": "20261115.1307",
   "url": "rdOO-latest.zip",
   "file": "rdOO-latest.zip",
-  "sha256": "3226314d0f0dc69b3cda5d5ba94fba9626602ce2b99338ca34e904e5e8941fcc",
-  "size": 16899996,
-  "notes": "Nueva opción en Ajustes → Opciones: «Sesión de consola» (admin). Menú del Dock y editor muestran «nombre (credencial)». Editor: doble clic para conectar y autoguardado. Build optimizada (LTO): más rápida y ligera."
+  "sha256": "f98a804e2db6cf9c48e78c53f42cee95f414e569d90cdec5f56a02e5d7062c05",
+  "size": 16880289,
+  "notes": ""
 }
