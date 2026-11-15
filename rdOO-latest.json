@@ -1,10 +1,10 @@
 {
   "name": "rdOO",
   "version": "0.7.0",
-  "build": "20261114.2102",
+  "build": "20261115.1112",
   "url": "rdOO-latest.zip",
   "file": "rdOO-latest.zip",
-  "sha256": "54e64a104bdec74158c03f1848143b99d4d111079e00c4cfba2f9c969b0f58f3",
-  "size": 16877672,
-  "notes": ""
+  "sha256": "8e31124af78d460603eb46a20e2056b16886512c85eba86ad427cc06c549f7f7",
+  "size": 16898946,
+  "notes": "Menú del Dock y editor: conexiones como «nombre (credencial)». Editor con doble clic para conectar y autoguardado al añadir. Build optimizada (LTO): más rápida y ligera."
 }
