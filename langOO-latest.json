@@ -1,10 +1,10 @@
 {
   "name": "langOO",
   "version": "0.3.0",
-  "build": "20261120.1651",
+  "build": "20261120.1901",
   "url": "langOO-latest.zip",
   "file": "langOO-latest.zip",
-  "sha256": "4aa1a797a5f7e7e1cb2e88cc3fb11d4b1937e13ba52b14f2e2a3e326bfac1123",
-  "size": 14162180,
-  "notes": ""
+  "sha256": "55c98051f1d81193f02f8297fb7e55843160c792e725796f1aa45ddd2719d01e",
+  "size": 14172945,
+  "notes": "Opciones «Mostrar en el Dock» y «Mostrar en la barra de menús» en Ajustes › General."
 }
