@@ -1,10 +1,10 @@
 {
   "name": "rdOO",
   "version": "0.7.0",
-  "build": "20261120.2001",
+  "build": "20261120.2028",
   "url": "rdOO-latest.zip",
   "file": "rdOO-latest.zip",
-  "sha256": "0b2ba40d439213de4a3b69f8e87e0f1b648c412cdb0251d2abfcc289d811bc97",
-  "size": 16905096,
-  "notes": "Opciones «Mostrar en el Dock» y «Mostrar en la barra de menús» en Ajustes › General."
+  "sha256": "77d50599ccf6bfa2bd6a91d81ebfd59c06175fc5a895d470f4258a37fd8404b8",
+  "size": 16885322,
+  "notes": ""
 }
