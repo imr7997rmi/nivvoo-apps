@@ -1,10 +1,10 @@
 {
   "name": "fileOO",
-  "version": "0.8.4",
-  "build": "20261120.2035",
+  "version": "0.8.5",
+  "build": "20261120.2102",
   "url": "fileOO-latest.zip",
   "file": "fileOO-latest.zip",
-  "sha256": "e4533250f6b0bd9eaf50acf589a74754ce802d03cf94bcfc4cce9dbac2c342ef",
-  "size": 1987657,
-  "notes": "Copias seguras y más rápidas (clonación APFS), «Aplicar a todos» en conflictos, avisos de errores, actualizaciones verificadas, «Cerrar el Finder al abrir fileOO» y nuevo icono."
+  "sha256": "1ea5de532eda172a6ca16112f67a0b98479c18ce05a65fac424e2a1736bb436d",
+  "size": 2047025,
+  "notes": "Interfaz en inglés y selector de idioma (Ajustes › General). Arreglado arrastrar a la Papelera del Dock desde cualquier vista."
 }
