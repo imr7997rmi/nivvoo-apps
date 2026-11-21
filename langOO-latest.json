@@ -1,10 +1,10 @@
 {
   "name": "langOO",
   "version": "0.3.0",
-  "build": "20261120.1901",
+  "build": "20261121.1736",
   "url": "langOO-latest.zip",
   "file": "langOO-latest.zip",
-  "sha256": "55c98051f1d81193f02f8297fb7e55843160c792e725796f1aa45ddd2719d01e",
-  "size": 14172945,
-  "notes": "Opciones «Mostrar en el Dock» y «Mostrar en la barra de menús» en Ajustes › General."
+  "sha256": "51a2df6e107355cc62657c016ea54ad187130d63ce9313d7b91eb070cee18ce8",
+  "size": 14174842,
+  "notes": "Arreglada una ventana invisible del menú de la barra de menús que bloqueaba los clics de otras apps."
 }

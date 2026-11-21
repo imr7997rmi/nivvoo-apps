@@ -1,10 +1,10 @@
 {
   "name": "fileOO",
-  "version": "0.8.5",
-  "build": "20261120.2102",
+  "version": "0.8.6",
+  "build": "20261121.1819",
   "url": "fileOO-latest.zip",
   "file": "fileOO-latest.zip",
-  "sha256": "1ea5de532eda172a6ca16112f67a0b98479c18ce05a65fac424e2a1736bb436d",
-  "size": 2047025,
-  "notes": "Interfaz en inglés y selector de idioma (Ajustes › General). Arreglado arrastrar a la Papelera del Dock desde cualquier vista."
+  "sha256": "33061de4ec7a8affd993e27ecc0f5d3ad15b8ab3cbbfa79d81e9458c428a5147",
+  "size": 2160498,
+  "notes": "Varias ventanas: arrastra una pestaña a otro panel o fuera para abrir una ventana nueva (⌘N). Barra lateral con «Recientes», grupos visibles y barra derecha independiente (Ajustes › Barra lateral). «Carpetas primero» propio del escritorio."
 }
