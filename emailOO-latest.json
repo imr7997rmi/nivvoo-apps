@@ -1,10 +1,10 @@
 {
   "name": "emailOO",
   "version": "0.1.0-alpha.7",
-  "build": "20261114.2141",
+  "build": "20261121.1917",
   "url": "emailOO-latest.zip",
   "file": "emailOO-latest.zip",
-  "sha256": "ec51276799773e187c1ec824c73402aed69016c402fed0a109ea126b6c012366",
-  "size": 85880582,
-  "notes": ""
+  "sha256": "441ebb62a85b333e8359fb23e0af5fffa74c1ec0bf98d44a64a91f4ea384b4e5",
+  "size": 85880662,
+  "notes": "Compilación universal (Intel y Apple Silicon) con las últimas mejoras."
 }
