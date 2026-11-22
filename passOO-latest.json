@@ -1,10 +1,10 @@
 {
   "name": "passOO",
-  "version": "0.6.0",
-  "build": "20261122.1343",
+  "version": "0.7.0",
+  "build": "20261122.1402",
   "url": "passOO-latest.zip",
   "file": "passOO-latest.zip",
-  "sha256": "669fad5639f4a78b13c3029e81a359482f6899f6eb89ef692c87b0d8a8f4d450",
-  "size": 13408675,
-  "notes": "Barra lateral con apartados, pantalla de inicio, descarga de adjuntos; extensión con contador de entradas en el icono."
+  "sha256": "f36a72e6721c7ea7bc777152fd51eacde19e260dc1e27a6b54872b690cabd773",
+  "size": 13460937,
+  "notes": "Botones de icono; adjuntar y eliminar archivos en las entradas."
 }
