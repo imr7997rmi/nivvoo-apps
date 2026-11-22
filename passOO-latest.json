@@ -1,10 +1,10 @@
 {
   "name": "passOO",
-  "version": "0.3.0",
-  "build": "20261122.1227",
+  "version": "0.3.1",
+  "build": "20261122.1239",
   "url": "passOO-latest.zip",
   "file": "passOO-latest.zip",
-  "sha256": "5913612ceebb51b918b5b1b5df12bd71bef2e00abdeb2f0dd2f5cd3f4d8b5ce7",
-  "size": 13298021,
-  "notes": "Crear, editar y eliminar entradas (a la papelera), generador de contraseñas."
+  "sha256": "9f0fa919932dce604a399c6191003bbcac1fa58b00ef63d0e9f9aa51f76638af",
+  "size": 13303661,
+  "notes": "Arreglado: crear y editar entradas en Vaultwarden (error 422)."
 }
