@@ -1,10 +1,10 @@
 {
   "name": "passOO",
-  "version": "0.7.3",
-  "build": "20261122.1632",
+  "version": "0.8.0",
+  "build": "20261122.1839",
   "url": "passOO-latest.zip",
   "file": "passOO-latest.zip",
-  "sha256": "aec8543feaf90aeb1417bf1af836434623704db93bb2af9e81616b2008b30437",
-  "size": 13463715,
-  "notes": "La extensión puede abrir una entrada en la app (notas, adjuntos, editar)."
+  "sha256": "ba5a57c665a92ece73e3c87fe9d43d1ccb6cf00e959ee4e040edac715a027121",
+  "size": 14418443,
+  "notes": "Detección de webs por URL (host exacto por defecto, como los tipos de Bitwarden); extensión con iconos más claros y botón de ir a la web."
 }
