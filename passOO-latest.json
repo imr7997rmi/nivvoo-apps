@@ -1,10 +1,10 @@
 {
   "name": "passOO",
-  "version": "0.8.0",
-  "build": "20261122.1839",
+  "version": "0.8.1",
+  "build": "20261122.1845",
   "url": "passOO-latest.zip",
   "file": "passOO-latest.zip",
-  "sha256": "ba5a57c665a92ece73e3c87fe9d43d1ccb6cf00e959ee4e040edac715a027121",
-  "size": 14418443,
-  "notes": "Detección de webs por URL (host exacto por defecto, como los tipos de Bitwarden); extensión con iconos más claros y botón de ir a la web."
+  "sha256": "9b77fabca58536a90b04825396f5043f2aad4be72aecc28315d40be558aaae9b",
+  "size": 14439346,
+  "notes": "Tarjetas, identidades, claves SSH y campos personalizados: se ven todos los datos, con ocultar y copiar."
 }
