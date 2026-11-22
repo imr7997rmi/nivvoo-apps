@@ -1,10 +1,10 @@
 {
   "name": "passOO",
-  "version": "0.8.1",
-  "build": "20261122.1845",
+  "version": "0.9.0",
+  "build": "20261122.1914",
   "url": "passOO-latest.zip",
   "file": "passOO-latest.zip",
-  "sha256": "9b77fabca58536a90b04825396f5043f2aad4be72aecc28315d40be558aaae9b",
-  "size": 14439346,
-  "notes": "Tarjetas, identidades, claves SSH y campos personalizados: se ven todos los datos, con ocultar y copiar."
+  "sha256": "3c6e5eb517df65c3b3b1458556a64591d37b587c4092f7af3c1e16990be6f289",
+  "size": 15030359,
+  "notes": "Iconos de las webs; extensión con secciones y relleno de tarjetas e identidades; la ficha de la entrada se desplaza."
 }
