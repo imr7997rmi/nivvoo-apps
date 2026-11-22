@@ -1,0 +1,10 @@
+{
+  "name": "passOO",
+  "version": "0.2.0",
+  "build": "20261122.1214",
+  "url": "passOO-latest.zip",
+  "file": "passOO-latest.zip",
+  "sha256": "be3c08218774e808121696dd36ed681e86d28f8d6b2e1bf86503f12bdd05b569",
+  "size": 13247793,
+  "notes": "Primera versión: vault con búsqueda, Archivo, TOTP, Llavero, Alfred, Dock/barra de menús y actualizaciones."
+}
