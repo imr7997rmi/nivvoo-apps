@@ -1,10 +1,10 @@
 {
   "name": "passOO",
-  "version": "0.4.0",
-  "build": "20261122.1303",
+  "version": "0.5.0",
+  "build": "20261122.1312",
   "url": "passOO-latest.zip",
   "file": "passOO-latest.zip",
-  "sha256": "f7d160a1bb1fc0f53e0df8e33e0552d21f4b080fd7db111425d0e2a66777f9aa",
-  "size": 13319607,
-  "notes": "Extensión para Chrome/Brave: detecta los campos de acceso y rellena desde la app."
+  "sha256": "8d09484176a0e16e9f8d8912968a8b02417ba76eb82982e25c8303dd874da2db",
+  "size": 13392906,
+  "notes": "Carpetas compartidas: filtrar, ver y asignar entradas a carpetas compartidas."
 }
