@@ -1,10 +1,10 @@
 {
   "name": "passOO",
-  "version": "0.7.2",
-  "build": "20261122.1427",
+  "version": "0.7.3",
+  "build": "20261122.1632",
   "url": "passOO-latest.zip",
   "file": "passOO-latest.zip",
-  "sha256": "14197d7033e3a602df4a087c8f865ca92b4c845abaf22e20be4d211694248aad",
-  "size": 13461888,
-  "notes": "Extensión: abre la app desde el botón y usa el mismo icono en todas partes."
+  "sha256": "aec8543feaf90aeb1417bf1af836434623704db93bb2af9e81616b2008b30437",
+  "size": 13463715,
+  "notes": "La extensión puede abrir una entrada en la app (notas, adjuntos, editar)."
 }
