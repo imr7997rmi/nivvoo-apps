@@ -1,10 +1,10 @@
 {
   "name": "passOO",
-  "version": "0.7.1",
-  "build": "20261122.1412",
+  "version": "0.7.2",
+  "build": "20261122.1427",
   "url": "passOO-latest.zip",
   "file": "passOO-latest.zip",
-  "sha256": "63c3addac0f25c41035c2c560a5fdfb8f7c7ff2edce349d7ac637c9965a4fd46",
-  "size": 13459768,
-  "notes": "Los adjuntos se gestionan dentro de la ficha de edición (también al crear)."
+  "sha256": "14197d7033e3a602df4a087c8f865ca92b4c845abaf22e20be4d211694248aad",
+  "size": 13461888,
+  "notes": "Extensión: abre la app desde el botón y usa el mismo icono en todas partes."
 }
