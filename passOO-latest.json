@@ -1,10 +1,10 @@
 {
   "name": "passOO",
-  "version": "0.3.1",
-  "build": "20261122.1239",
+  "version": "0.4.0",
+  "build": "20261122.1303",
   "url": "passOO-latest.zip",
   "file": "passOO-latest.zip",
-  "sha256": "9f0fa919932dce604a399c6191003bbcac1fa58b00ef63d0e9f9aa51f76638af",
-  "size": 13303661,
-  "notes": "Arreglado: crear y editar entradas en Vaultwarden (error 422)."
+  "sha256": "f7d160a1bb1fc0f53e0df8e33e0552d21f4b080fd7db111425d0e2a66777f9aa",
+  "size": 13319607,
+  "notes": "Extensión para Chrome/Brave: detecta los campos de acceso y rellena desde la app."
 }
