@@ -1,10 +1,10 @@
 {
   "name": "passOO",
-  "version": "0.9.0",
-  "build": "20261122.1914",
+  "version": "0.9.1",
+  "build": "20261122.1938",
   "url": "passOO-latest.zip",
   "file": "passOO-latest.zip",
-  "sha256": "3c6e5eb517df65c3b3b1458556a64591d37b587c4092f7af3c1e16990be6f289",
-  "size": 15030359,
-  "notes": "Iconos de las webs; extensión con secciones y relleno de tarjetas e identidades; la ficha de la entrada se desplaza."
+  "sha256": "7dcf46208b26e4409b59c112409229bef776f872b2df20e64507407f52606a20",
+  "size": 15033495,
+  "notes": "Secciones con icono: Entradas, Tarjetas, Identidades, Notas seguras y Archivo por separado."
 }
