@@ -1,10 +1,10 @@
 {
   "name": "fileOO",
-  "version": "0.8.6",
-  "build": "20261121.1819",
+  "version": "0.8.7",
+  "build": "20261124.1724",
   "url": "fileOO-latest.zip",
   "file": "fileOO-latest.zip",
-  "sha256": "33061de4ec7a8affd993e27ecc0f5d3ad15b8ab3cbbfa79d81e9458c428a5147",
-  "size": 2160498,
-  "notes": "Varias ventanas: arrastra una pestaña a otro panel o fuera para abrir una ventana nueva (⌘N). Barra lateral con «Recientes», grupos visibles y barra derecha independiente (Ajustes › Barra lateral). «Carpetas primero» propio del escritorio."
+  "sha256": "cbd4f44ef2d0ce52a986a9ca00503af84c03b905bbb4fc4b0a58de32e96c4d35",
+  "size": 2189087,
+  "notes": "Las carpetas se actualizan solas al instante, como en el Finder (también en red y nube). Soltar carpetas o migas de la barra de ruta en la tira de pestañas las abre en pestañas nuevas."
 }
