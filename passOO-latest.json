@@ -1,10 +1,10 @@
 {
   "name": "passOO",
-  "version": "0.9.1",
-  "build": "20261122.1938",
+  "version": "0.11.0",
+  "build": "20261124.1019",
   "url": "passOO-latest.zip",
   "file": "passOO-latest.zip",
-  "sha256": "7dcf46208b26e4409b59c112409229bef776f872b2df20e64507407f52606a20",
-  "size": 15033495,
-  "notes": "Secciones con icono: Entradas, Tarjetas, Identidades, Notas seguras y Archivo por separado."
+  "sha256": "040c40916ac75be7d9da3c33233ecc4d7ed762ddc24ca6f42ebd9c5df7a9ef56",
+  "size": 15152422,
+  "notes": "Generador de contraseñas; la extensión añade entradas y ofrece guardar las contraseñas nuevas."
 }
