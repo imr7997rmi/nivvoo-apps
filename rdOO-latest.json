@@ -1,10 +1,10 @@
 {
   "name": "rdOO",
   "version": "0.7.0",
-  "build": "20261125.1149",
+  "build": "20261125.1210",
   "url": "rdOO-latest.zip",
   "file": "rdOO-latest.zip",
-  "sha256": "df7a67c194ae0f6b3e4e7c0cf970acbd2c4c01cc487118c8993d03c847d9cac5",
-  "size": 16906435,
-  "notes": "Windows se ve al mismo tamaño que en Jump Desktop: se amplía todo por igual, también Velneo."
+  "sha256": "359ee8167865568ba8c9d1948e9dd23031bf5334c8da19f011c54937178886bb",
+  "size": 16886329,
+  "notes": ""
 }
