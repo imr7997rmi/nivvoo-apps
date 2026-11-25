@@ -1,10 +1,10 @@
 {
   "name": "rdOO",
   "version": "0.7.0",
-  "build": "20261120.2028",
+  "build": "20261125.1100",
   "url": "rdOO-latest.zip",
   "file": "rdOO-latest.zip",
-  "sha256": "77d50599ccf6bfa2bd6a91d81ebfd59c06175fc5a895d470f4258a37fd8404b8",
-  "size": 16885322,
-  "notes": ""
+  "sha256": "a6e01ca51afa7281cdb81845f3e1df117b0781a751c9a8091f9f1ed7a279f9b2",
+  "size": 16906015,
+  "notes": "Textos e iconos de Windows al tamaño de tu Mac (Retina) y ayudas más claras en Ajustes."
 }
