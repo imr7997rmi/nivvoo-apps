@@ -1,10 +1,10 @@
 {
   "name": "rdOO",
   "version": "0.7.0",
-  "build": "20261125.1210",
+  "build": "20261125.1221",
   "url": "rdOO-latest.zip",
   "file": "rdOO-latest.zip",
-  "sha256": "359ee8167865568ba8c9d1948e9dd23031bf5334c8da19f011c54937178886bb",
-  "size": 16886329,
-  "notes": ""
+  "sha256": "d82729170feb444da0dd3f5b2a70e403c46dc6461564e4af5a9c43238a5d4b75",
+  "size": 16908117,
+  "notes": "Nuevo «Modo de escalado» por conexión: Ampliar (compatible, como Jump) o Nítido (escala de Windows)."
 }
