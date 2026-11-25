@@ -1,10 +1,10 @@
 {
   "name": "rdOO",
   "version": "0.7.0",
-  "build": "20261125.1221",
+  "build": "20261125.1320",
   "url": "rdOO-latest.zip",
   "file": "rdOO-latest.zip",
-  "sha256": "d82729170feb444da0dd3f5b2a70e403c46dc6461564e4af5a9c43238a5d4b75",
-  "size": 16908117,
-  "notes": "Nuevo «Modo de escalado» por conexión: Ampliar (compatible, como Jump) o Nítido (escala de Windows)."
+  "sha256": "c6905f87fed15bda7198e4a97c2c5fa028d93b4344136e39835bbdb69e0702b7",
+  "size": 16910720,
+  "notes": "Modo «Ampliar»: la imagen de Windows ahora ocupa toda la ventana."
 }
