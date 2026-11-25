@@ -1,10 +1,10 @@
 {
   "name": "rdOO",
   "version": "0.7.0",
-  "build": "20261125.1136",
+  "build": "20261125.1149",
   "url": "rdOO-latest.zip",
   "file": "rdOO-latest.zip",
-  "sha256": "2bdcef55f87a6dfcfe9608c1f39fcd0ee1fc84ca4e1d4af2befbf978acfc9a38",
-  "size": 16907251,
-  "notes": "El tamaño de textos e iconos de Windows ya se respeta (antes volvía a 100 % al redimensionar). Automático según tu pantalla."
+  "sha256": "5e8bd87f5406e129237eb394aeb1134ba70b2d6be07c6038c824ed100b065398",
+  "size": 16906435,
+  "notes": "Windows se ve al mismo tamaño que en Jump Desktop: se amplía todo por igual, también Velneo."
 }
