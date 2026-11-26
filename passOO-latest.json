@@ -1,10 +1,10 @@
 {
   "name": "passOO",
-  "version": "0.12.0",
-  "build": "20261126.1835",
+  "version": "0.12.1",
+  "build": "20261126.1846",
   "url": "passOO-latest.zip",
   "file": "passOO-latest.zip",
-  "sha256": "f6111307befb0b02b4dba482b2a387705b6b173c26a641f635242573cbf03bd7",
-  "size": 15224811,
-  "notes": "Llaves de acceso: inicia sesión con las passkeys guardadas en tu vault."
+  "sha256": "1e214c8f25adfb8f3b127d60728790c081f19709ba78e13b1c6bb42afd8d5cf5",
+  "size": 15232173,
+  "notes": "Sección «Llaves de acceso» y la llave se ve en la ficha de cada entrada."
 }
