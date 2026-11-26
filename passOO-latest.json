@@ -1,10 +1,10 @@
 {
   "name": "passOO",
-  "version": "0.11.0",
-  "build": "20261124.1019",
+  "version": "0.12.0",
+  "build": "20261126.1835",
   "url": "passOO-latest.zip",
   "file": "passOO-latest.zip",
-  "sha256": "040c40916ac75be7d9da3c33233ecc4d7ed762ddc24ca6f42ebd9c5df7a9ef56",
-  "size": 15152422,
-  "notes": "Generador de contraseñas; la extensión añade entradas y ofrece guardar las contraseñas nuevas."
+  "sha256": "f6111307befb0b02b4dba482b2a387705b6b173c26a641f635242573cbf03bd7",
+  "size": 15224811,
+  "notes": "Llaves de acceso: inicia sesión con las passkeys guardadas en tu vault."
 }
