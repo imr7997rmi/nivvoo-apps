@@ -1,10 +1,10 @@
 {
   "name": "rdOO",
-  "version": "0.7.0",
-  "build": "20261125.1320",
+  "version": "0.7.1",
+  "build": "20261127.2035",
   "url": "rdOO-latest.zip",
   "file": "rdOO-latest.zip",
-  "sha256": "c6905f87fed15bda7198e4a97c2c5fa028d93b4344136e39835bbdb69e0702b7",
-  "size": 16910720,
-  "notes": "Modo «Ampliar»: la imagen de Windows ahora ocupa toda la ventana."
+  "sha256": "ba40c525c294db54dcab246c8f596dc8617152eb2fd9e1dcf9e032889389e580",
+  "size": 16921194,
+  "notes": "Ajustes › General: exportar e importar conexiones y usuarios."
 }
